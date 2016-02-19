@@ -1,6 +1,6 @@
 
 ## makeCacheMatrix provides 4 functions: set, get, setInverse, and getInverse
-## and creates a matrix object that is able to store its own inverse in a "cached" variable
+## This function creates a matrix object that is able to store its own inverse in a "cached" variable
 ## get returns the matrix that is stored.
 ## set decides the matrix value that will be stored and resets the inverse value.
 ## setInverse decides the inverse value that will be stored.
